@@ -1,2 +1,2 @@
-# Smart-Pointers-Showcase---C-
+# Smart-Pointers-Showcase-C-Plus-Plus
 Smart Pointers Showcase - C++
